@@ -38,7 +38,7 @@
   <!-- Social -->
   <h3>🌐 Connect with me</h3>
   <p>
-    <a href="https://www.linkedin.com/in/shreyask253" target="_blank">
+    <a href="https://www.linkedin.com/in/shreyask" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://leetcode.com/shreyask253" target="_blank">
@@ -54,9 +54,7 @@
   <p align="center">
     <img src="https://raw.githubusercontent.com/shreyask253/shreyask253/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
   </p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/shreyask253/shreyask253/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake (dark)" />
-  </p>
+  
 
   <!-- Fun -->
   <h3>✨ Fun Vibe Zone</h3>
