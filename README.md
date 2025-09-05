@@ -5,6 +5,12 @@
   <h1>👋 Hey, I'm Shreyas</h1>
   <p>Full Stack Developer • Passionate Learner • Building useful projects</p>
 
+  <!-- Snake Animation -->
+  <h3>🐍 Contribution Activity</h3>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/shreyask253/shreyask253/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+  </p>
+  
   <!-- Known Languages & Tools -->
   <h3>🛠️ Known Languages & Tools</h3>
   <p>
@@ -38,21 +44,15 @@
   <!-- Social -->
   <h3>🌐 Connect with me</h3>
   <p>
-    <a href="https://www.linkedin.com/in/shreyask" target="_blank">
+    <a href="https://www.linkedin.com/in/shreyask--" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://leetcode.com/shreyask253" target="_blank">
+    <a href="https://leetcode.com/shreyas k" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-F79F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
     </a>
     <a href="https://www.hackerrank.com/shreyask253" target="_blank">
       <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
     </a>
-  </p>
-
-  <!-- Snake Animation -->
-  <h3>🐍 Contribution Activity</h3>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/shreyask253/shreyask253/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
   </p>
   
 
