@@ -10,11 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Clone the repo
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Generate the snake files
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -23,7 +21,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Push the files to the output branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
